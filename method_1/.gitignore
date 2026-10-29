@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/
+data/processed/
+data/toy/
+models/
+*.parquet
+*.jsonl
+.ipynb_checkpoints/
+.DS_Store
+logs/
